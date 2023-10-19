@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,
+ol{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.container{
+    max-width: 1098px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container div{
+    text-align: start;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.item_container{
+    text-align: start;
+}
+.titl_text{
+    text-align: center;
+    width: 30px;
+    background-color: rgb(30, 161, 237);
+    width: 150px;
+    height: 25px;
+}
+.head{
+    text-align: end;
+    width: 600px;
+}
+.heads{
+    text-align: end;
+    width: 600px;
+}
+.headr{
+    text-align: end;
+    width: 370px;
+}
+.head_text{
+    text-align: center;
+}
+.headr_text{
+    text-align: center;
+}
+.heads_text{
+    text-align: center;
+    width: 250px;
+    background-color: whitesmoke;
+    width: 250px;
+}
+.header_text{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 250px;    
+}
+.headers_text{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 250px;
+}
+.heades_text{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 250px;
+}
+.title{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 250px;
+}
+.title_text{
+    text-align: center;
+    width: 700px;
+}
+
+.container{
+    color: rgb(30, 161, 237);
+    text-align: center;
+    width: 550px;
+}
+.titles{
+    text-align: center;
+    width: 800px;
+    color: rgb(30, 161, 237);
+}
+
+.item_text{
+    text-align: center;
+}
+.box{
+    border: 2px solid whitesmoke;
+    border-radius: 50px;
+}
+.box_container{
+    background-color: whitesmoke;
+    border-radius: 35px;
+    width: 100px;
+    height: 280px;
+    text-align: center;
+    width: 500px;
+    cursor: pointer;
+}
+.main{
+    border: 2px solid rgba(0, 0, 0, 0.519);
+    border-radius: 20px;
+    width: 37%;
+}
+.main_container{
+    text-align: end;
+    background-color: whitesmoke;
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.box1_container{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 900px;
+    height: 80px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.mains_container{
+    text-align: center;
+    width: 400px;
+    background-color: whitesmoke;
+    width: 38%;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.back_container{
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    width: 600px;
+    height: 70px;    
+}
+
+.brack_container{
+    text-align: end;
+    width: 800px;
+    background-color: whitesmoke;
+    text-align: center;
+    width: 500px;
+}
+
+.next{
+    text-align: end;
+    width: 500px;
+    background-color: whitesmoke;
+    width: 400px;
+    height: 70px;
+    text-align: center;
+    border-radius: 10px;
+}
